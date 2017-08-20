@@ -1,3 +1,8 @@
+# React example
+
+it displays a simple youtube search app:
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?

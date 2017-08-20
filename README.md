@@ -1,6 +1,7 @@
 # React example
 
 it displays a simple youtube search app:
+![ui of the react app](https://github.com/runnerdave/react-simple-starter/blob/master/react-app.png)
 
 
 # ReduxSimpleStarter

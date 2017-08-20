@@ -3,6 +3,9 @@
 it displays a simple youtube search app:
 ![ui of the react app](https://github.com/runnerdave/react-simple-starter/blob/master/react-app.png)
 
+It does not contain Redux, for that look at the repository: 
+
+# BELOW IS THE ORIGINAL STARTER README
 
 # ReduxSimpleStarter
 
